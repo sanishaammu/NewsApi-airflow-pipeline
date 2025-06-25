@@ -162,6 +162,12 @@ Power BI dashboard alerts for key KPIs
 
 ---
 
+## Architecture Diagram
+
+![Architecture](Newsapi.jpg)
+
+---
+
 ## ✅ Conclusion
 This project demonstrates a fully automated real-time data pipeline for news analytics, combining the power of AWS (Lambda, Glue, S3, EC2), Apache Kafka, Snowflake, Apache Airflow, and Power BI. From ingestion to visualization, each stage is seamlessly orchestrated through Airflow, ensuring timely and accurate data processing.
 
